@@ -7,6 +7,12 @@ Project Management
 check out [the project board](https://github.com/johnchourajr/good-coffee/projects/1).
 
 Potential Dependencies
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick |           |
+
+
 | Name | url | Tested | Implemented |
 | :--- | :--- | :--- | :--- |
 | expo | https://docs.expo.io/versions/v16.0.0/introduction/index.html | ✓ | ✓ |
