@@ -8,6 +8,6 @@ check out [the project board](https://github.com/johnchourajr/good-coffee/projec
 
 Potential Dependencies
 | Name | url | Tested | Implemented |
-|---|---|---|---|---|
+| :--- | :--- | :--- | :--- |
 | expo | https://docs.expo.io/versions/v16.0.0/introduction/index.html | ✓ | ✓ |
 | react-native-maps | https://github.com/airbnb/react-native-maps | ✗ | ✗ |
