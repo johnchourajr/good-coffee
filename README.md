@@ -1,12 +1,12 @@
 # good-coffee
 
-Run the App
+### Run the App
 `git clone https://github.com/johnchourajr/good-coffee.git` then `npm i` then `expo start`
 
-Project Management
+### Project Management
 check out [the project board](https://github.com/johnchourajr/good-coffee/projects/1).
 
-Potential Dependencies
+### Potential Dependencies
 
 | Name | url  | Tested | Implemented |
 | :--- | :--- | :---   | :---        |
