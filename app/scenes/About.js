@@ -11,7 +11,7 @@ export default class About extends Component {
   render() {
     return (
       <View style={{alignItems: 'center', justifyContent: 'center', flex: 1}}>
-        <Text>{this.props.route.params.name}</Text>
+        <Text>About Screen!</Text>
       </View>
     )
   }
