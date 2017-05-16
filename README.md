@@ -4,7 +4,7 @@
 `git clone https://github.com/johnchourajr/good-coffee.git` then `npm i` then `expo start`
 
 ### Project Management
-check out [the project board](https://github.com/johnchourajr/good-coffee/projects/1).
+Check out [the project board](https://github.com/johnchourajr/good-coffee/projects/1).
 
 ### Potential Dependencies
 
