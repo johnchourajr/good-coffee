@@ -12,7 +12,7 @@ Check out the [project board](https://github.com/johnchourajr/good-coffee/projec
 | :--- | :--- | :---   | :--- |
 | expo | https://docs.expo.io/versions/v16.0.0/introduction/index.html | ✓ | ✓ |
 | ex-navigation | https://github.com/expo/ex-navigation | ✓ | ✓ |
-| react-native-foursquare-api | https://github.com/lwhiteley/react-native-foursquare-api | ✗ | ✗ |
+| react-native-foursquare-api | https://github.com/lwhiteley/react-native-foursquare-api https://developer.foursquare.com/overview/ | ✗ | ✗ |
 | redux | https://github.com/reactjs/react-redux | ✗ | ✗ |
 | react-native-maps | https://github.com/airbnb/react-native-maps | ✗ | ✗ |
 
